@@ -1,0 +1,3 @@
+[submodule "Docker-OSX"]
+	path = Docker-OSX
+	url = git@github.com:sickcodes/Docker-OSX.git
